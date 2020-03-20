@@ -1,6 +1,8 @@
 # Personal Portfolio
 This page is my personal developer portfolio which includes examples of projects I have completed.
 
+![screenshot](./src/preview.png)
+
 ### Live Demo
 To view the live demo on Heroku, [click here](https://evaveskova.herokuapp.com/).
 
@@ -22,17 +24,9 @@ git clone
 ```
 * Install dependancies
 ```
-yarn install
-```
-or
-```
 npm install
 ```
 * Run the server and visit localhost:3000
-```
-yarn start
-```
-or
 ```
 npm start
 ```
